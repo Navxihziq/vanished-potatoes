@@ -1,2 +1,2 @@
 # vanished-potatoes
-the free replacement of notion teamwork
+## * * we are facing a vanishing potatoes problem here * * 
