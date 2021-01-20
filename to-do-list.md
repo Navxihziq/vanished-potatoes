@@ -1,1 +1,2 @@
+- [ ] bjut email register `at [](webvpn.bjut.edu.cn) -> 门户 -> 服务 -> 邮箱注册;`
 - [ ] in comming journal, Jan 20th;
