@@ -10,7 +10,7 @@
 |:----------:|:------:|:---:|:-----:|
 |[Konstantinos Dimopoulos(medium)](https://medium.com/@KonstantinosD)|Navx|*y*|*none*|
 |[Konstantinos Dimopoulos(personal website)](https://www.game-cities.com/)|Navx|*not clear*|*none*|
-|[Beijing City Lab](https://www.beijingcitylab.com/)Navx|*n*|*none*|
+|[Beijing City Lab](https://www.beijingcitylab.com/)|Navx|*n*|*none*|
 
 ## book recommendations
 1. ### on urban
