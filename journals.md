@@ -1,4 +1,6 @@
 ## plain old journals
+note: for ELSEVIER publications plz chose "Access through your institution"
+
 |added Time|title|type|added by|pdf link|review|
 |:--------:|:---:|:--:|:------:|:------:|:----:|
 |Jan 22nd 00:35|[Combining smart card data and household travel survey to analyze jobs–housing relationships in Beijing](https://www.sciencedirect.com/science/article/pii/S0198971515000356)|journal|Navx|*none*|*none*|
