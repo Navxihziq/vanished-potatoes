@@ -5,6 +5,7 @@ note:
 
 |added Time|title|type|added by|pdf link|comment|review|
 |:--------:|:---:|:--:|:------:|:------:|:-----:|:----:|
+|Jan 22nd 23:34|[TOPOLOGY OF URBAN ENVIRONMENTS](https://link.springer.com/chapter/10.1007/978-1-4020-6528-6_9)|journal|Navx|[*here*](journal-pdfs/TOPOLOGY-OF-URBAN-ENVIRONMENTS.pdf)|*SPRINGER*|*none*|
 |Jan 22nd 12:37|[A graph-based algorithm to define urban topology from unstructured geospatial data](https://www.tandfonline.com/doi/full/10.1080/13658816.2012.756881?scroll=top&needAccess=true)|journal|Navx|[*here*](journal-pdfs/A-graph-based-algorithm-to-define-urban-topology-from-unstructured-geospatial-data.pdf)|*Taylor and Francis*|*none*|
 |Jan 22nd 00:35|[Combining smart card data and household travel survey to analyze jobs–housing relationships in Beijing](https://www.sciencedirect.com/science/article/pii/S0198971515000356)|journal|Navx|*none*|*ELSEVIER*|*none*|
 |Jan 21st 14:12|[Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces](https://dl.acm.org/doi/fullHtml/10.1145/3336144)|journal|Navx|*none*|*ACM Lib*|*none*|
